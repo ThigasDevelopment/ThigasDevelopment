@@ -5,21 +5,29 @@
 **Aplicações e Dados**
 
   ![Lua](https://img.shields.io/badge/-LUA-333333?style=flat&logo=lua)
+  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  
+  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   
 
 **Utilidades**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
 
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-333333?style=flat&logo=stack-overflow)
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
