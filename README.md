@@ -30,14 +30,6 @@
   ![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
-
-<a href="https://github.com/ThigasDevelopment">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThigasDevelopment&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Discord](https://img.shields.io/discord/730446040997691493?color=%238109d6&label=🛠️%20Infinity%20Community)](https://discord.gg/duhj5WsKuu)
