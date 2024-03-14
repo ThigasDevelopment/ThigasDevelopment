@@ -32,6 +32,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Discord](https://img.shields.io/discord/730446040997691493?color=%238109d6&label=🛠️%20Infinity%20Community)](https://discord.gg/duhj5WsKuu)
 [![Discord](https://img.shields.io/discord/1141441934896930958?color=%238109d6&label=🔮%20Dynamic%20Resources)](http://discord.gg/F7Ecft6WzK)
 [![GitHub Thigas Development]( https://img.shields.io/github/followers/ThigasDevelopment?label=follow&style=social)](https://github.com/ThigasDevelopment)
