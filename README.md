@@ -13,7 +13,7 @@
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
 
 **Utilidades**
 
