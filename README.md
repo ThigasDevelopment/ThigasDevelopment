@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Thiago Maia [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/thiagoo-maia)
+# 🧑🏻‍💻 Thiago Maia [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thiago-maia-9a9727300)
 
 **`Engheiro de Software`**
 
