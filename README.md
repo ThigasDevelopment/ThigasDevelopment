@@ -14,7 +14,7 @@ Comecei programando pra brincar e criar soluções em jogos online, e hoje trans
 Extrovertido, comunicativo e sempre pronto pra aprender algo novo — afinal, cada desafio é uma oportunidade. 🚀
 
 <p align="left">
-    <a href="https://github.com/ImString?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ThigasDevelopment?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
